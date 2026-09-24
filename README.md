@@ -50,8 +50,7 @@ and an auto-generated insights section.
 
 ## Dataset Description
 
-**File:** `data/Indian Flight Price.csv`
-**Records:** 10,460 rows · 10 columns
+**File:** `https://www.kaggle.com/datasets/ibrahimelsayed182/plane-ticket-price?`
 
 | Column | Description |
 |---|---|
